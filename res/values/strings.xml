@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Activity Names Strings -->
+	<string name="app_name">Síragon</string>
+	<string name="app_version_name">1.1.1</string>
+	<string name="settings_hint_line1">No se ha generado reporte</string>
+	<string name="settings_hint_line2">Para seleccionar / deseleccionar plugins del dispositivo, vaya al menú de configuración"</string>
+	<string name="last_report_label">Último Informe ID:</string>
+	
+	<!-- Progress Dialog -->
+	<string name="progress_dialog_title">Analizando ...</string>
+	<string name="progress_dialog_msg">nombre del Plugin: \n</string>
+	
+	<!-- Alert Dialog-->
+	<string name="alert_dialog_warning_title">advertencia</string>
+	<string name="alert_dialog_warning_ss_msg">El envío de datos falló! servidor no respondió: </string>
+	<string name="alert_dialog_warning_ssd_msg">Almacenar datos falló!</string>
+	<string name="alert_dialog_warning_host">Host no válido!</string>
+	<string name="alert_dialog_ok">OK</string>
+	<string name="alert_dialog_pos_title">Información</string>
+	<string name="alert_dialog_pos_ss">Informe enviado correctamente.</string>
+	<string name="alert_dialog_pos_ss_with_id">Informe enviado con éxito! </string>
+	<string name="alert_dialog_pos_ssd">Reporte guardado correctamente!: </string>
+	<string name="alert_connection_failed">Conexión al host ha fallado!</string>
+	<string name="alert_connection_ok">Éxito en conexión al host!</string>
+	<string name="alert_dialog_success_title">éxito</string>
+	<string name="alert_connection_test_msg">Conectando con el servidor! Por favor, espere...</string>
+	<string name="alert_dialog_plugins_gui">Siguiente% 1 $ s plugin / s solicitará la entrada del usuario</string>
+	<string name="alert_dialog_plugins_msg">Por favor, espere ....</string>
+	
+	<!-- Menu items-->
+	<string name="menu_settings">Configuración</string>
+	<string name="analyze_button">analizar</string>
+	<string name="send_report_button">Enviar informe</string>
+	<string name="save_report_button">Guardar informe</string>
+	<string name="save_button_txt">guardar</string>
+	<string name="reset_button_txt">reiniciar</string>
+	
+	<!-- Settings strings -->
+	<string name="tab_core_settings">Core</string>
+	<string name="tab_plugin_settings">Plugins</string>
+	<string name="tab_about">acerca</string>
+	<string name="plugin_not_run">no iniciar</string>
+	<string name="test_link_txt">probar</string>
+	
+	<!-- Progress messages -->
+	<string name="save_progress_message">guardando informe. Por favor, espere...</string>
+	<string name="send_progress_message">Envíando informe. Por favor, espere...</string>
+	<string name="load_plugins_message">Cargando plugins. Por favor, espere ...</string>
+	<string name="time_format">Último unicio fué %1$ s en %2$s</string>
+	
+</resources>
