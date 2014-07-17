@@ -37,7 +37,7 @@
 	<string name="reset_button_txt">reiniciar</string>
 	
 	<!-- Settings strings -->
-	<string name="tab_core_settings">Core</string>
+	<string name="tab_core_settings">Conexión</string>
 	<string name="tab_plugin_settings">Plugins</string>
 	<string name="tab_about">acerca</string>
 	<string name="plugin_not_run">no iniciar</string>

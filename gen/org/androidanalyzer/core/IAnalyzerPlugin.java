@@ -2,7 +2,7 @@
 
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: C:\\Users\\Uclides\\Desktop\\analizer\\src\\org\\androidanalyzer\\core\\IAnalyzerPlugin.aidl
+ * Original file: C:\\Users\\Uclides Gil\\Documents\\GitHub\\inspect\\src\\org\\androidanalyzer\\core\\IAnalyzerPlugin.aidl
  */
 package org.androidanalyzer.core;
 // 	Interface to be used with Analyzer Plugin

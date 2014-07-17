@@ -18,7 +18,7 @@ import android.hardware.SensorManager;
  */
 public class SensorsPlugin extends AbstractPlugin {
 
-	private static final String NAME = "Sensors Plugin";
+	private static final String NAME = "Sensores";
 	private static final String PLUGIN_VERSION = "1.0.0";
 	private static final String PLUGIN_VENDOR = "ProSyst Software GmbH";
 	private static final String TAG = "Analyzer-SensorsPlugin";
@@ -46,7 +46,7 @@ public class SensorsPlugin extends AbstractPlugin {
 	private static final String TYPE_NAME = "Type name";
 	private static final String VENDOR = "Vendor";
 	private static final String VERSION = "Version";
-	private static final String DESCRIPTION = "Collects data on available device sensors";
+	private static final String DESCRIPTION = "Recopila datos sobre sensores de los dispositivos disponibles";
 	private String status = Constants.METADATA_PLUGIN_STATUS_PASSED;
 
 	/*

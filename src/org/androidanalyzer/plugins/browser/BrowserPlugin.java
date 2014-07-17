@@ -18,7 +18,7 @@ import android.webkit.WebView;
 public class BrowserPlugin extends AbstractPlugin {
 
 	private static final String TAG = "Analyzer-BrowserPlugin";
-	private static final String NAME = "Browser Plugin";
+	private static final String NAME = "Navegador";
 	private static final String PLUGIN_VERSION = "1.0.0";
 	private static final String PLUGIN_VENDOR = "ProSyst Software GmbH";
 	private static final String PARENT_NODE_NAME = "Browser";
@@ -26,7 +26,7 @@ public class BrowserPlugin extends AbstractPlugin {
 	private static final String WEBKIT = "WebKit";
 	private static final String WEBKIT_USER_AGENT = "User agent";
 	
-	private static final String DESCRIPTION = "Collects data on browser application and engine capabilities";
+	private static final String DESCRIPTION = "Recopila datos sobre capacidades de aplicación del navegador";
 	private String status = Constants.METADATA_PLUGIN_STATUS_PASSED;
 	
 	//android.webkit.WebSettings.getUserAgentString

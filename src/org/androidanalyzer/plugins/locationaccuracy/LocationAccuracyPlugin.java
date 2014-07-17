@@ -16,10 +16,10 @@ import org.androidanalyzer.plugins.AbstractPlugin;
 public class LocationAccuracyPlugin extends AbstractPlugin {
 
 	private static final String TAG = "Analyzer-LocationPlugin";
-	private static final String NAME = "Location Accuracy Plugin";
+	private static final String NAME = "Localización";
 	private static final String PLUGIN_VERSION = "1.0.0";
 	private static final String PLUGIN_VENDOR = "ProSyst Software GmbH";
-	private static final String PLUGIN_DESCRIPTION = "Benchmarks the accuracy of the positioning technology.";
+	private static final String PLUGIN_DESCRIPTION = "referencias de la precisión de la tecnología de posicionamiento.";
 	private String status = Constants.METADATA_PLUGIN_STATUS_PASSED;
 
 	/*

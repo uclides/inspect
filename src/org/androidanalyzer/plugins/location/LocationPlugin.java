@@ -20,7 +20,7 @@ import android.provider.Settings.SettingNotFoundException;
 public class LocationPlugin extends AbstractPlugin {
 
 	private static final String TAG = "Analyzer-LocationPlugin";
-	private static final String NAME = "Location Plugin";
+	private static final String NAME = "Ubicación";
 	private static final String PLUGIN_VERSION = "1.0.0";
 	private static final String PLUGIN_VENDOR = "ProSyst Software GmbH";
 	private static final String PARENT_NODE_NAME = "Location";
@@ -33,7 +33,7 @@ public class LocationPlugin extends AbstractPlugin {
 	private static final Object GPS_PROVIDER = "gps";
 
 	private static final String ASSISTED_GPS_ENABLED = "assisted_gps_enabled";
-	private static final String DESCRIPTION = "Collects data on available positioning methods";
+	private static final String DESCRIPTION = "Recopila datos sobre los métodos de posicionamiento disponibles";
 	private String status = Constants.METADATA_PLUGIN_STATUS_PASSED;
 
 	/*

@@ -38,8 +38,8 @@ public class DeviceInfoPlugin extends AbstractPlugin {
   private static final String PLUGIN_VERSION = "1.0.0";
   private static final String PLUGIN_VENDOR = "ProSyst Software GmbH";
   private static final long PLUGIN_TIMEOUT = 0;
-  private static final String PLUGIN_NAME = "Device Info Plugin";
-  private static final String PLUGIN_DESCRIPTION = "Collects data on general device properties";
+  private static final String PLUGIN_NAME = "Información del dispositivo";
+  private static final String PLUGIN_DESCRIPTION = "Recopila datos sobre las propiedades generales del dispositivo";
   private static final String TAG = "Analyzer-DeviceInfoPlugin";
   /**
    * Holds the plugin status. Default value is passed. If error retrieving any of plugin properties occur,

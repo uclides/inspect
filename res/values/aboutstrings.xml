@@ -15,20 +15,20 @@
 -->
 
 <resources>
-	<string name="about_title">About</string>
+	<string name="about_title">acerca</string>
 	
-    <string name="about_text">The Android Analyzer is an application that analyzes and collects hardware and software capabilities of devices based on the Android OS. Capability reports can be sent to an online database, where a comprehensive user interface is presented for browsing and comparing device capabilities for one or more devices.</string>
+    <string name="about_text">aplicacion que recopila información relacionada al software y hardware de dispositivos moviles basados en android</string>
     
-    <string name="aa_url_text">More about Android Analyzer...</string>
-    <string name="aa_url_link">http://code.google.com/p/android-analyzer/</string>
+    <string name="aa_url_text">Mas información...</string>
+    <string name="aa_url_link">http://www.siragon</string>
 
     <string name="af_url_text">More about Android Fragmentation...</string>
     <string name="af_url_link">http://androidfragmentation.com</string>
     
-    <string name="about_vendor_name">Android Analyzer Community</string>
-    <string name="about_vendor_mail">mailto:android.analyzer@gmail.com</string>
+    <string name="about_vendor_name">Siragon</string>
+    <string name="about_vendor_mail">mailto:desarrollo06@siragon.com.ve</string>
     <string name="about_version">Version:</string>
-    <string name="about_build">Build date: 21/Feb/2011</string>
-	<string name="about_vendor_label">Author:</string>
+    <string name="about_build">fecha compilación: 17/Jul/2014</string>
+	<string name="about_vendor_label">Autor:</string>
 </resources>
 

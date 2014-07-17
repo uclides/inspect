@@ -19,7 +19,7 @@ import android.net.Uri;
  */
 public class APIPlugin extends AbstractPlugin {
 
-	private static final String NAME = "API Plugin";
+	private static final String NAME = "Aplicaciones";
 	private static final String PLUGIN_VERSION = "1.0.1";
 	private static final String PLUGIN_VENDOR = "ProSyst Software GmbH";
 	private static final String API = "API";
@@ -29,7 +29,7 @@ public class APIPlugin extends AbstractPlugin {
 	private static final String CONTACTS = "Contacts";
 	private static final String MY_CONTACT_CART = "MyContactCard type";
 	private static final String TAG = "Analyzer-APIPlugin";
-	private static final String DESCRIPTION = "Collects data on available Android and Google APIs and their versions";
+	private static final String DESCRIPTION = "Recopila datos sobre las API disponibles para Android y Google";
 	private String status = Constants.METADATA_PLUGIN_STATUS_PASSED;
 
 	/*

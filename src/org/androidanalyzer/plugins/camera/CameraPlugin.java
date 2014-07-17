@@ -36,7 +36,7 @@ public class CameraPlugin extends AbstractPlugin {
 	private static final String CAMERA_LOCATION = "Location";
 	private static final String FIELD_CAMERAINFO_FACING = "facing";
 	private static final String TAG = "Analyzer-CameraPlugin";
-	private static final String NAME = "Camera Plugin";
+	private static final String NAME = "Cámara";
 	private static final String PLUGIN_VERSION = "1.1.0";
 	private static final String PLUGIN_VENDOR = "ProSyst Software GmbH";
 	private static final String PARENT_NODE_NAME = "Camera";
@@ -143,7 +143,7 @@ public class CameraPlugin extends AbstractPlugin {
 	private Properties buildProps = null;
 	private String status = Constants.METADATA_PLUGIN_STATUS_PASSED;
 
-	private static final String DESCRIPTION = "Collects data on available cameras and their capabilities";
+	private static final String DESCRIPTION = "Recopila datos sobre las cámaras disponibles y sus capacidades";
 	private static final String CAMERA_INFO_CLASSNAME = "android.hardware.Camera$CameraInfo";
 
 	/*

@@ -17,7 +17,7 @@ import org.androidanalyzer.plugins.AbstractPlugin;
  */
 public class CPUPlugin extends AbstractPlugin {
 
-	private static final String NAME = "CPU Plugin";
+	private static final String NAME = "CPU";
 	private static final String PLUGIN_VERSION = "1.1.1";
 	private static final String PLUGIN_VENDOR = "ProSyst Software GmbH";
 	private static final String PARENT_NODE_NAME = "CPU";
@@ -36,7 +36,7 @@ public class CPUPlugin extends AbstractPlugin {
 	private static final String ARCH_ARM = "arm";
 	private static final String FREQ_METRIC = "MHz";
 
-	private static final String DESCRIPTION = "Collects information on the device\'s main CPU";
+	private static final String DESCRIPTION = "Recopila información sobre la CPU del dispositivo";
 	private String status = Constants.METADATA_PLUGIN_STATUS_PASSED;
 	
 	// NEW for v1.1.0 of the plugin

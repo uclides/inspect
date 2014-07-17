@@ -18,7 +18,7 @@ import android.content.res.Configuration;
 public class KeyboardPlugin extends AbstractPlugin {
 
   private static final String TAG = "Analyzer-KeyboardPlugin";
-  private static final String NAME = "Keyboard Plugin";
+  private static final String NAME = "Teclado";
   private static final String PLUGIN_VERSION = "1.0.0";
   private static final String PLUGIN_VENDOR = "OpenIntents UG";
   private static final String PARENT_NODE_NAME = "Keyboard";
@@ -41,7 +41,7 @@ public class KeyboardPlugin extends AbstractPlugin {
   private static String status = Constants.METADATA_PLUGIN_STATUS_PASSED;
 
   
-  private static final String DESCRIPTION = "Collects data on available hardkeyboard and orientation";
+  private static final String DESCRIPTION = "Recopila datos sobre teclado y orientación disponibles";
   
   /*
    * (non-Javadoc)

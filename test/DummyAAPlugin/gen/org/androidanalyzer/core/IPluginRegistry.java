@@ -2,7 +2,7 @@
 
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: C:\\Users\\Uclides\\Desktop\\analizer\\test\\DummyAAPlugin\\src\\org\\androidanalyzer\\core\\IPluginRegistry.aidl
+ * Original file: C:\\Users\\Uclides Gil\\Documents\\GitHub\\inspect\\test\\DummyAAPlugin\\src\\org\\androidanalyzer\\core\\IPluginRegistry.aidl
  */
 package org.androidanalyzer.core;
 //	Interface to be used by each Analyzer Plugin to register

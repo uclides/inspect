@@ -19,7 +19,7 @@ import org.androidanalyzer.plugins.AbstractPlugin;
  */
 public class MemoryPlugin extends AbstractPlugin {
 
-	private static final String NAME = "Memory Plugin";
+	private static final String NAME = "Memoria";
 	private static final String PLUGIN_VERSION = "1.0.0";
 	private static final String PLUGIN_VENDOR = "ProSyst Software GmbH";
 	private static final String PARENT_NODE_NAME = "Memory";
@@ -42,7 +42,7 @@ public class MemoryPlugin extends AbstractPlugin {
 
 	private static final CharSequence FLASH_FILE_SYSTEM = "yaffs";
 	private static final CharSequence UBI_FILE_SYSTEM = "ubifs";
-	private static final String DESCRIPTION = "Collects data on memory capabilities, like ROM, RAM, removable storage, etc";
+	private static final String DESCRIPTION = "Recopila datos sobre capacidades de memoria, como ROM, RAM, almacenamiento extraíble, etc";
 	private String status = Constants.METADATA_PLUGIN_STATUS_PASSED;
 
 	/*

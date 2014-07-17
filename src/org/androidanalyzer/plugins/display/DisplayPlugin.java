@@ -20,7 +20,7 @@ import android.view.WindowManager;
  */
 public class DisplayPlugin extends AbstractPlugin {
 	
-	private static final String NAME = "Display Plugin";
+	private static final String NAME = "Pantalla";
 	private static final String PLUGIN_VERSION = "1.0.0";
 	private static final String PLUGIN_VENDOR = "ProSyst Software GmbH";
 	private static final String TAG = "Analyzer-DisplayPlugin";
@@ -49,7 +49,7 @@ public class DisplayPlugin extends AbstractPlugin {
 	private static final String REFRESH_RATE = "Refresh rate";
 	private static final String REFRESH_RATE_METRIC = "fps";
 	private static final String DISPLAY_NAME = "Display-";
-	private static final String DESCRIPTION = "Collects data on available displays and their capabilities";
+	private static final String DESCRIPTION = "Recopila datos sobre las pantallas disponibles y sus capacidades";
 	private String status = Constants.METADATA_PLUGIN_STATUS_PASSED;
 
 	/*

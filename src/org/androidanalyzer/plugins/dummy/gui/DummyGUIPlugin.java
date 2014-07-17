@@ -19,11 +19,11 @@ public class DummyGUIPlugin extends AbstractPlugin {
 	public static final String CAMERA_VIEW_INTENT = "org.androidanalyzer.plugins.dummy.gui.cameraview";
 
 	private static final String TAG = "Analyzer-DummyGUIPlugin";
-	private static final String NAME = "Dummy GUI Plugin";
+	private static final String NAME = "GUI";
 	private static final String PLUGIN_VERSION = "1.0.0";
 	private static final String PLUGIN_VENDOR = "ProSyst Software GmbH";
 	private static final String PARENT_NODE_NAME = "DummyGUIPlugin";
-	private static final String DESCRIPTION = "Start internal activity which starts camera view with extra OpenGL process";
+	private static final String DESCRIPTION = "visión a los procesos OpenGL";
 
 	private static int TIMEOUT = 10000;
 	private String status = Constants.METADATA_PLUGIN_STATUS_PASSED;
